@@ -1,0 +1,22 @@
+[02-Mar-2021 07:40:14 UTC] PHP Fatal error:  Cannot redeclare Allocated_tasks::start_timer() in /home4/xprswtfv/public_html/process/application/controllers/Allocated_tasks.php on line 38
+[02-Mar-2021 07:42:07 UTC] PHP Fatal error:  Cannot redeclare Allocated_tasks::start_timer() in /home4/xprswtfv/public_html/process/application/controllers/Allocated_tasks.php on line 38
+[02-Mar-2021 07:42:25 UTC] PHP Fatal error:  Cannot redeclare Allocated_tasks::start_timer() in /home4/xprswtfv/public_html/process/application/controllers/Allocated_tasks.php on line 38
+[02-Mar-2021 07:42:41 UTC] PHP Fatal error:  Cannot redeclare Allocated_tasks::start_timer() in /home4/xprswtfv/public_html/process/application/controllers/Allocated_tasks.php on line 38
+[02-Mar-2021 12:59:13 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home4/xprswtfv/public_html/process/application/views/production_orders/production_orders_view.php on line 177
+[27-Jun-2021 07:45:13 UTC] PHP Fatal error:  Cannot redeclare Render_production_orders::move_to() in /home4/xprswtfv/public_html/process/application/controllers/Render_production_orders.php on line 404
+[09-Aug-2021 11:32:51 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[09-Aug-2021 11:32:56 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[09-Aug-2021 11:33:00 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[09-Aug-2021 11:33:05 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[09-Aug-2021 11:33:08 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[09-Aug-2021 11:33:10 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[09-Aug-2021 11:33:11 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[09-Aug-2021 11:33:13 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[09-Aug-2021 11:33:18 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[14-Aug-2021 10:02:56 Asia/Kolkata] PHP Fatal error:  Cannot use empty array elements in arrays in /home4/xprswtfv/public_html/process/application/controllers/Render_production_orders.php on line 552
+[27-Aug-2021 21:23:21 Asia/Kolkata] PHP Fatal error:  Cannot use [] for reading in /home4/xprswtfv/public_html/process/application/models/Master_model.php on line 38
+[05-Oct-2021 16:47:42 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Portal_orders::isEmptyRow() in /home4/xprswtfv/public_html/process/application/controllers/Portal_orders.php on line 701
+[09-Oct-2021 20:35:33 Asia/Kolkata] PHP Fatal error:  Cannot use empty array elements in arrays in /home4/xprswtfv/public_html/process/application/controllers/Portal_orders.php on line 671
+[16-Oct-2021 11:54:31 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Portal_orders::upload_media() in /home4/xprswtfv/public_html/process/application/controllers/Portal_orders.php on line 64
+[12-Nov-2021 15:26:41 Asia/Kolkata] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home4/xprswtfv/public_html/process/application/views/reports/detailed_report.php on line 301
+[24-Jan-2022 11:17:05 Asia/Kolkata] PHP Fatal error:  Cannot use [] for reading in /home4/xprswtfv/public_html/process/application/controllers/Portal_orders.php on line 47
